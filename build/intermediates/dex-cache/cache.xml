@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-30451dcc80cdf940df3884542b58afce5fbf3f2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1922085702e73e6e9b3e438c7c3c01ff58c320dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\libs\BmobSDK_V3.4.0_0616.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="20dbd020365584cafeb1a85ec9743ac9bcadf0df">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.0_0616-54e15c531663aaff446e5e5db0b2acb6e59eb826.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes-2985a8b30ce2b88b1b94974fe520da2452bdbccc.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\pre-dexed\debug\classes-082797c4fd73d9e6886e2b8dda03d8205a746496.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\testtingbmoblist\build\intermediates\pre-dexed\debug\classes-b2007b70196504ff50388450cbb42e9633056c9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2817769ef4e46d9ed76870fbf20d61e58086d97d.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\app\libs\baidumapapi_v3_5_0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ba79500bb64218f10b5fd0d5ea54503b2bf6b3bb">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_5_0-7bb2466d518216b292c751a4bc28ee8193d0f2dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\app\libs\BmobSDK_V3.4.0_0616.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="20dbd020365584cafeb1a85ec9743ac9bcadf0df">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\BmobSDK_V3.4.0_0616-0bd28b4b6aae31990cc048ab107b58fb95bdd95c.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\classes-886e8aa19b00b6ad530398563bf9757f5a15d05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\Desktop\MyApplication\MyApplication\app\libs\locSDK_5.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="389047997db28fcb848dc4247c5590a08b7ff769">
+        <dex dex="C:\Users\acer\Desktop\MyApplication\MyApplication\app\build\intermediates\pre-dexed\debug\locSDK_5.2-1d3d3e49f190c690124e400689ca0edc40cbb97d.jar" />
+    </item>
+
+</items>
